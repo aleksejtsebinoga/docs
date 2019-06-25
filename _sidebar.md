@@ -1,3 +1,14 @@
+-   Working with the theme
+    -   [First environment setup](/recipes/01-bring-everything-up-first.md)
+    -   [Installing ScandiPWA Demo](/recipes/02-installing-scandipwa-demo.md)
+    -   [Managing Environment](/recipes/03-managing-environment.md)
+    -   [Creation of the new theme]()
+    -   [Swithing the theme]()
+    -   [Customizing the page]()
+    -   [Extending the component]()
+    -   [Overriding the component]()
+    -   [Creating and adding a new page]()
+
 -   PWA Theme
     -   [Project](/theme/01-Project.md)
     -   [Overview](/theme/02-Overview.md)
