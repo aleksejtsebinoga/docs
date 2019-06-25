@@ -1,5 +1,14 @@
 # Scandi PWA documentation
 
+## Hands on experience
+
+Your ScandiPWA journer is about to start **[now](/recipes/01-bring-everything-up-first.md)**
+
+
+<br>
+<br>
+<br>
+
 The documentation is split in two parts:
 
 ## [ScandiPWA Theme](/theme/01-Project)
